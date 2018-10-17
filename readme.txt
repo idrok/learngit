@@ -4,4 +4,4 @@ git very well.
 加入中文
 first modify
 second modify
-this is a new branch dev - master
+this is a new branch developer!!!!!feature1 - master
