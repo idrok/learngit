@@ -18,3 +18,7 @@ wait for reset
 git reset --hard HEAD^ HEAD^^ HEAD~100  返回之前的版本
 
 cat <file>       查看文件
+
+git reflog       命令记录
+
+
