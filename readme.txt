@@ -34,6 +34,3 @@ c1.git merge --no-ff -m "msg" dev          禁止使用ff模式来合并分支
 cat <file>       查看文件
 git reflog       命令记录
 
-
-dev dev dev
-dev
