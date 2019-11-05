@@ -11,3 +11,6 @@ git commit -m <message>
 git status       工作区变更
 git diff <file>  显示变更
 
+git log --pretty=oneline
+
+wait for reset
