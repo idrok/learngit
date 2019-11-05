@@ -24,12 +24,14 @@ b4.git push origin master                  推送到远程的master分支
 
 b5.git checkout -b dev                     创建并且切换到dev分支
 b6.git branch dev                          创建分支
+b7.git branch -d dev                       删除分支
 b7.git checkout dev                        切换分支
 b8.git branch                              查看分支
-
+b9.git merge dev                           将dev分支合并到当前分支
+c1.
   
 cat <file>       查看文件
 git reflog       命令记录
 
-dev branch
+
 
