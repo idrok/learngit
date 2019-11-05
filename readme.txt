@@ -8,8 +8,9 @@ git init <dir>
 git add <file1 file2 file3>
 git commit -m <message>
 
-git status       暂存区变更
-git diff <file>  显示变更
+git status            暂存区变更
+git diff <file>       显示变更
+git diff HEAD^ <file> 上一个版本对比的变更
 
 git log --pretty=oneline
 
