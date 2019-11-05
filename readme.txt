@@ -23,8 +23,8 @@ b3.git push -u origin master               -u本地分支和远程分支关联
 b4.git push origin master                  推送到远程的master分支
 
 b5.git checkout -b dev                     创建并且切换到dev分支
-b6.git branch dev
-b7.git checkout dev
+b6.git branch dev                          创建分支
+b7.git checkout dev                        切换分支
 b8.git branch                              查看分支
 
   
