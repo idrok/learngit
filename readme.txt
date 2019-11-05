@@ -14,6 +14,7 @@ a6.git diff <file>           显示变更
 a7.git diff HEAD^ <file>     上一个版本对比的变更
 
 a8.git log --pretty=oneline
+a8.git log --graph --pretty=oneline --abbrev-commit
 
 a9.git reset --hard HEAD^ HEAD^^ HEAD~100  返回之前的版本
 b1.git reset HEAD <file> + a4              把暂存区的返回来，HEAD最新版本
@@ -28,10 +29,11 @@ b7.git branch -d dev                       删除分支
 b7.git checkout dev                        切换分支
 b8.git branch                              查看分支
 b9.git merge dev                           将dev分支合并到当前分支
-c1.
+c1.git merge --no-ff -m "msg" dev          禁止使用ff模式来合并分支
   
 cat <file>       查看文件
 git reflog       命令记录
 
 
-
+dev dev dev
+dev
