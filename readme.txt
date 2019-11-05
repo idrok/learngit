@@ -31,6 +31,6 @@ b8.git branch                              查看分支
 b9.git merge dev                           将dev分支合并到当前分支
 c1.git merge --no-ff -m "msg" dev          禁止使用ff模式来合并分支
   
-cat <file>       查看文件
-git reflog       命令记录
+cat <file>        查看文件
+git reflog        命令记录
 
