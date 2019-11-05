@@ -7,3 +7,7 @@ git init <dir>
 
 git add <file1 file2 file3>
 git commit -m <message>
+
+git status       工作区变更
+git diff <file>  显示变更
+
