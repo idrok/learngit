@@ -18,7 +18,16 @@ a8.git log --pretty=oneline
 a9.git reset --hard HEAD^ HEAD^^ HEAD~100  返回之前的版本
 b1.git reset HEAD <file> + a4              把暂存区的返回来，HEAD最新版本
 
+b2.git remote add origin url.git           关联远程仓库到本地
+b3.git push -u origin master               -u本地分支和远程分支关联
+b4.git push origin master                  推送到远程的master分支
 
+b5.git checkout -b dev                     创建并且切换到dev分支
+b6.git branch dev
+b7.git checkout dev
+b8.git branch                              查看分支
+
+  
 cat <file>       查看文件
 git reflog       命令记录
 
