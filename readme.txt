@@ -1,10 +1,4 @@
-linux open system
-git more powerful then svn
-git very good.
-加入中文
-first modify
-second modify
-this is a new branch developer!!!!!feature1 - master
-add feature2 advance branch 
-
-new gay modify cool code!!!
+ssh-keygen -t rsa -C "youremail@example.com"
+home/.ssh
+id_rsa      私匙
+id_rsa.pub  公匙
