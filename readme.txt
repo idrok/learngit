@@ -5,3 +5,5 @@ id_rsa.pub  公匙
 
 git init <dir>
 
+git add <file1 file2 file3>
+git commit -m <message>
