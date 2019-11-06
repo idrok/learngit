@@ -15,6 +15,7 @@ a7.git diff HEAD^ <file>     上一个版本对比的变更
 
 a8.git log --pretty=oneline
 a8.git log --graph --pretty=oneline --abbrev-commit
+a8.git log <branch> -p
 
 a9.git reset --hard HEAD^ HEAD^^ HEAD~100  返回之前的版本
 b1.git reset HEAD <file> + a4              把暂存区的返回来，HEAD最新版本
