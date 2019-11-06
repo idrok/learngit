@@ -1,5 +1,5 @@
 ssh-keygen -t rsa -C "youremail@example.com"
-home/.ssh
+root/.ssh
 id_rsa      私匙
 id_rsa.pub  公匙
 
@@ -43,7 +43,8 @@ d2.git checkout -b dev origin/dev          创建关联远程dev分支
 d3.git pull                                抓取最新的代码
 d4.git branch --set-upstream-to=origin/<branch> dev
 
-
 cat <file>        查看文件
 git reflog        命令记录
+
+https://github.com/github/gitignore        github .gitignore
 
