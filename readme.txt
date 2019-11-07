@@ -12,6 +12,7 @@ a4.git checkout -- <file>    撤销工作区的变更
 a5.git status                暂存区变更
 a6.git diff <file>           显示变更
 a7.git diff HEAD^ <file>     上一个版本对比的变更
+a7.git diff --stat           简单进行对比
 
 a8.git log --pretty=oneline
 a8.git log --graph --pretty=oneline --abbrev-commit
